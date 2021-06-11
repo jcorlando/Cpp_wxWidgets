@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0",
-                "/usr/include/wx-3.0"
+                "/usr/include/wx-3.0",
+                "/usr/include/python3.8"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
